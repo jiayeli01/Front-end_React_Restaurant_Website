@@ -1,0 +1,15 @@
+.header{
+    width:100%;
+    display: grid;
+    grid-template-columns: 20% 55% 15%;
+    background-color: var(--primary-header);
+}
+
+.header-title{
+    padding-left: 1rem;
+}
+
+.themeSwitcher{
+    padding-top: 1.8rem;
+}
+

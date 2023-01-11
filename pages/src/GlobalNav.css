@@ -1,0 +1,47 @@
+.global-nav__list {
+    padding: 0;
+    margin:0;
+    height:0;
+    list-style: none;
+    font-size: large;
+    position: absolute;
+    overflow: hidden;
+}
+
+.global-nav__link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1.3rem;
+    background-color:antiquewhite;
+    width: 5rem;
+}
+    
+.global-nav__link:hover {
+    background-color: #F5EBE0;
+    color: black;
+}
+
+.global-nav :hover .global-nav__list,
+.global-nav :focus-within .global-nav__list{
+    height: initial;
+}
+
+.global_list{
+    list-style: none;
+    padding-top: 1rem;
+}
+
+.button {
+  background-color: var(--primary-others);
+  border: 1px solid var(--primary-others);
+  border-radius: 5%;
+  box-sizing: border-box;
+  color: black;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+
+
+

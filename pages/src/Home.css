@@ -1,0 +1,34 @@
+ .accordian{
+    padding:0;
+    margin:0;
+    list-style: none;
+ }
+
+ .accordian_content{
+    display: none;
+ }
+
+ .accordian_content_open{
+   padding: 1rem;
+   display: block;
+ }
+
+.accordian_title{
+   background-color:var(--primary-others);
+}
+
+.accordian{
+   padding: 2rem;
+}
+
+.form{
+   padding: 1rem;
+}
+
+.home-header{
+   text-align: center;
+}
+
+.page-home{
+   height:100%;
+}

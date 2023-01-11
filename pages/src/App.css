@@ -1,0 +1,19 @@
+.app.light{
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  
+  height: 100%;
+
+  background-color: var(--primary-bg);
+}
+
+.app.dark{
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  
+  height: 100%;
+  
+  --primary-bg: lightgrey;
+  --primary-header:darkgrey;
+  --primary-others: #696969;
+}

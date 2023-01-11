@@ -1,0 +1,18 @@
+The images used in project are as follow:
+birman.png:
+https://images.unsplash.com/photo-1626195780064-db3e375d685f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fEJpcm1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60
+
+birmanCandy.png
+https://images.unsplash.com/photo-1567355187824-332fc4c3dcb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmlybWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60
+
+shorthairLuna
+https://images.unsplash.com/photo-1629624467541-f73ef8f12df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGJpcnRpc2glMjBzaG9ydGhhaXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60
+
+shorthairOreo
+https://images.unsplash.com/photo-1638855852644-a4691a48d964?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fGJpcnRpc2glMjBzaG9ydGhhaXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60
+
+Coco
+https://images.unsplash.com/photo-1610973053414-abc5309f0a8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8UmFnZG9sbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60
+
+Mochi
+https://images.unsplash.com/photo-1627981643499-07422174a28f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fFJhZ2RvbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60

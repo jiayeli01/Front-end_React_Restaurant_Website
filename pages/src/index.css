@@ -1,0 +1,19 @@
+*, *::before, *::after{
+  box-sizing: border-box;
+}
+
+:root{
+    --primary-bg:#fec89a;
+    --primary-color:black;
+    --primary-header: #D4A373;
+    --primary-others: #bc6c25;
+}
+
+html,body{
+  
+  margin: 0;
+  font-family: sans-serif;
+}
+
+
+

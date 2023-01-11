@@ -1,0 +1,33 @@
+.page-cats{
+    height:100%;
+}
+
+.panels{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    gap:2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.panel{
+    grid-column: span 12;
+    padding:1rem;
+
+    display: flex;
+    border: solid 1.5px #DDA15E;
+    border-radius: 10%;
+}
+
+.cats-img{
+    width:100px;
+    height:100px;
+}
+
+@media screen and (min-width: 44rem){
+    
+    .cats-img{
+        width:150px;
+        height:150px;
+    }
+}

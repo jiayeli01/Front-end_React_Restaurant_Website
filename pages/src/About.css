@@ -1,0 +1,36 @@
+.cards{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    gap:1rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+.card{
+    grid-column: span 12;
+    text-align: center;
+    background-color: var(--primary-header);
+    border-radius: 10%;
+}
+
+.img{
+    width:80%;
+    height:20rem
+}
+
+p{
+    width: 90%;
+    text-align: justify;
+    padding-left: 10%;
+}
+
+h2{
+    text-align: center;
+}
+
+
+@media screen and (min-width: 44rem){
+    .card{
+        grid-column: span 4;
+    }
+}

@@ -1,0 +1,33 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap:2rem;
+}
+
+.formbutton{
+    height: 1.5rem;
+    width: 4rem;
+    background-color:#0078d0;
+    color:blanchedalmond;
+}
+
+.formbutton :hover,
+.formbutton :focus {
+    background-color: brown;
+}
+
+.div{
+    height: 2rem;
+}
+
+
+.nameInputError{
+    color: red;
+}
+
+.emailInputError{
+    color:red;
+}
+
+
